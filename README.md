@@ -73,6 +73,15 @@ Images of different waste categories and bins are used to visualize the waste an
    - Access the app through `http://localhost` after starting both the PHP server.
    - admi username : ali
    - admin password :ali
+## Output
+Waste Segregation
+![image](https://github.com/user-attachments/assets/82bd8e7c-0a1a-4f2e-9508-afa004aa9d3c)
+
+Garbage Disposal Tracking
+![image](https://github.com/user-attachments/assets/ae3fc72e-662c-484e-abb7-cf13b6e6e639)
+
+![image](https://github.com/user-attachments/assets/20de1a5d-ff0b-433d-b3e9-074a1a03b10e)
+
 
 ## Future Enhancements
 - Improve waste classification accuracy by training the model on a larger dataset.
