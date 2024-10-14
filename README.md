@@ -60,9 +60,9 @@ Images of different waste categories and bins are used to visualize the waste an
    cd GarbageDisposalApp
    ```
 2. **Install Dependencies**:
-   ```bash
+   
    Install all the required libraries 
-   ```
+  
 3. **Run the PHP Backend**:
    - Set up the PHP backend and MySQL database for user and admin management.
 4. **Run the Python Waste Segregation Module**:
